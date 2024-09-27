@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\bin\Debug\net8.0\EShop.DataLayer.deps.json
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\bin\Debug\net8.0\EShop.DataLayer.runtimeconfig.json
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\bin\Debug\net8.0\EShop.DataLayer.dll
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\bin\Debug\net8.0\EShop.DataLayer.pdb
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.dll
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\refint\EShop.DataLayer.dll
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.pdb
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\EShop.DataLayer.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\shop\EShop\EShop.DataLayer\obj\Debug\net8.0\ref\EShop.DataLayer.dll

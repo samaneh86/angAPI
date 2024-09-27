@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\bin\Debug\net8.0\ESop.Core.deps.json
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\bin\Debug\net8.0\ESop.Core.dll
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\bin\Debug\net8.0\ESop.Core.pdb
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.dll
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\refint\ESop.Core.dll
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.pdb
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ref\ESop.Core.dll
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\obj\Debug\net8.0\ESop.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\bin\Debug\net8.0\EShop.DataLayer.dll
+C:\Users\ASUS\Desktop\shop\EShop\ESop.Core\bin\Debug\net8.0\EShop.DataLayer.pdb
+C:\Users\ASUS\Desktop\shop\Eshop\ESop.Core\obj\Debug\net8.0\ESop.Core.csproj.Up2Date
